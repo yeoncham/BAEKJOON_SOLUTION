@@ -1,1 +1,5 @@
-# BAEKJOON_SOLUTION
+## BAEKJOON_SOLUTION
+>C언어를 주로 사용해서
+>>백준 푸는 사람입니다
+>>>코드 궁금하신 점은
+>>>>편하게 물어보세요
